@@ -1,0 +1,5 @@
+# Ignore virtual environment directory
+.venv/
+
+# Ignore Ayoub-2 directory
+Ayoub-2/
